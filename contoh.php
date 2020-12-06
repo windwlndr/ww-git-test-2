@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello, ini part 2</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error fugit porro ratione adipisci dolorum dolorem architecto qui quibusdam, molestias exercitationem aspernatur perspiciatis ad, amet facere quis quia corrupti? Nisi, culpa!</p>
 </body>
 </html>
